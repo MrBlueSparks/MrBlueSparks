@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Rhys 👋</h1>
 
 <p align="center">
-  <em>Computer Science student · Aspiring developer · Open to internships</em>
+  <em>Computer Information Systems student · Aspiring developer · Open to internships</em>
 </p>
 
 <p align="center">
