@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a CS student with a passion for building things on the web. I love working across the stack — whether that's crafting clean front-end interfaces or building out back-end APIs and databases. I'm also exploring cloud tools and how they fit into modern web workflows.
+I'm a Computer Information Systems student with a passion for building things on the web. I love working across the stack — whether that's crafting clean front-end interfaces or building out back-end APIs and databases. I'm also exploring cloud tools and how they fit into modern web workflows.
 
 I'm currently looking for **internship opportunities** in software/web development where I can keep learning and contribute to real projects. I'm versatile and happy to jump into whatever the team needs.
 
