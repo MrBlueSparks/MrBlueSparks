@@ -67,6 +67,7 @@ A server-side web app for viewing and managing customer stock portfolios backed 
 
 **Tech:** PHP · MySQL · PDO · REST API · HTML/CSS
 
+*I have more projects than what’s shown here—many are private*
 ---
 
 ## 📊 GitHub Stats
