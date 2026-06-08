@@ -32,6 +32,9 @@ I'm currently looking for **internship opportunities** in software/web developme
 
 **Frameworks & Tools**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -45,13 +48,15 @@ I'm currently looking for **internship opportunities** in software/web developme
 
 ### 🚍 [CGY Transit Diagnostic](https://github.com/MrBlueSparks/cgy-transit-diagnostic)
 
-A hyper-focused, live transit diagnostic dashboard for Calgary. Real-time monitoring and insights into transit system performance and metrics.
+A hyper-focused, live transit diagnostic dashboard for Calgary. Real-time monitoring and insights into transit system performance and schedule variance.
 
-- Live transit data visualization and diagnostics
-- Responsive dashboard interface for real-time monitoring
-- Built with **JavaScript**, **HTML**, and **CSS**
+- Live transit data visualization and real-time diagnostics
+- Route-based filtering with direction-aware bus tracking
+- Schedule variance calculations with delay detection
+- Responsive dashboard with local storage persistence
+- Deployed on **Vercel** with live data from Calgary's GTFS API
 
-**Tech:** JavaScript · HTML · CSS
+**Tech:** React · Express.js · Node.js · Axios · Vite · GTFS Realtime Bindings
 
 ---
 
