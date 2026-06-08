@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Computer Information Systems student with a passion for building things on the web. I love working across the stack — whether that's crafting clean front-end interfaces or building out back-end APIs and databases. I'm also exploring cloud tools and how they fit into modern web workflows.
+I'm a Computer Information Systems student with a passion for building things on the web. I love working across the stack — whether that's crafting clean front-end interfaces or building out backend services.
 
 I'm currently looking for **internship opportunities** in software/web development where I can keep learning and contribute to real projects. I'm versatile and happy to jump into whatever the team needs.
 
@@ -43,6 +43,18 @@ I'm currently looking for **internship opportunities** in software/web developme
 
 ## 🚀 Featured Projects
 
+### 🚍 [CGY Transit Diagnostic](https://github.com/MrBlueSparks/cgy-transit-diagnostic)
+
+A hyper-focused, live transit diagnostic dashboard for Calgary. Real-time monitoring and insights into transit system performance and metrics.
+
+- Live transit data visualization and diagnostics
+- Responsive dashboard interface for real-time monitoring
+- Built with **JavaScript**, **HTML**, and **CSS**
+
+**Tech:** JavaScript · HTML · CSS
+
+---
+
 ### 🛍️ [E-Commerce SPA](https://github.com/MrBlueSparks/COMP3512-assign2)
 
 A fully client-side single-page application for browsing and purchasing products — no frameworks, just vanilla JavaScript.
@@ -67,7 +79,7 @@ A server-side web app for viewing and managing customer stock portfolios backed 
 
 **Tech:** PHP · MySQL · PDO · REST API · HTML/CSS
 
-*I have more projects than what’s shown here—many are private*
+*I have more projects than what's shown here—many are private*
 ---
 
 ## 📊 GitHub Stats
